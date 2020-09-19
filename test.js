@@ -12,6 +12,8 @@ let words = [
     'голова',
     'плита',
     'дескриптор',
+    'висельница',
+    'ананас'
 ];
 let word = words[Math.floor(Math.random() * words.length)];
 
